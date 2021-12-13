@@ -3,11 +3,11 @@
 **Developer:** Yumeng Sun  
 **Organization:** NYU Tandon Schools of Engineering  
 **NetID:** ys5046  
-**Project Link:** https://github.com/MisakaNA/FinalProject
+**Project Link:**  
 
 ----------------------------------------------------------------
 **How to run**  
-1. To execute this project correctly, you must have `JDK 1.8` and `Javafx 8` installed.  
+1. To execute this project correctly, you must have `JDK 1.8` and `Javafx 8` installed and you also need `sqlite-jdbc-3.30.1.jar` include in the project library.  
 2. First run `Server.java` to start the server, client window will not show if server is not started.  
 3. Then run `Main.java` to start a client. Multiple clients can be run at the same time, but you need to set it up in the configuration. For **IntelliJ IDEA**, at the right top of the window, you can `Edit Configuration` -> `Modify options` and check `Allow Multiple Instances`.  
 
@@ -27,6 +27,6 @@
 ----------------------------------------------------------------
 **Copyright**
 
-This project is developed by Yumeng Sun, all development processes are finished on 12/13/2021. **AGPL-3.0 License** is set for this project.  
+This project is developed by Yumeng Sun, all development process are finished on 12/13/2021. **AGPL-3.0 License** is set for this project.  
 
 For any douts, bugs and questions, please contact Yumeng Sun at ys5046@nyu.edu.  
