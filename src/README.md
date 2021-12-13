@@ -3,7 +3,7 @@
 **Developer:** Yumeng Sun  
 **Organization:** NYU Tandon Schools of Engineering  
 **NetID:** ys5046  
-**Project Link:**  
+**Project Link:** https://github.com/MisakaNA/FinalProject
 
 ----------------------------------------------------------------
 **How to run**  
@@ -27,6 +27,6 @@
 ----------------------------------------------------------------
 **Copyright**
 
-This project is developed by Yumeng Sun, all development process are finished on 12/13/2021. **AGPL-3.0 License** is set for this project.  
+This project is developed by Yumeng Sun, all development processes are finished on 12/13/2021. **AGPL-3.0 License** is set for this project.  
 
 For any douts, bugs and questions, please contact Yumeng Sun at ys5046@nyu.edu.  
