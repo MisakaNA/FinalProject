@@ -3,7 +3,7 @@
 **Developer:** Yumeng Sun  
 **Organization:** NYU Tandon Schools of Engineering  
 **NetID:** ys5046  
-**Project Link:**  
+**Project Link:**  https://github.com/MisakaNA/FinalProject
 
 ----------------------------------------------------------------
 **How to run**  
